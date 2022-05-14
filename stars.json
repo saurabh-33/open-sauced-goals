@@ -1,139 +1,139 @@
 [
   {
     "full_name": "umlet/umlet",
-    "stargazers_count": 1119,
+    "stargazers_count": 1120,
     "open_issues_count": 167,
     "forks_count": 267
   },
   {
     "full_name": "miloyip/game-programmer",
-    "stargazers_count": 14621,
+    "stargazers_count": 14626,
     "open_issues_count": 25,
-    "forks_count": 1844
+    "forks_count": 1845
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 57166,
+    "stargazers_count": 57202,
     "open_issues_count": 105,
-    "forks_count": 12109
+    "forks_count": 12118
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 72860,
-    "open_issues_count": 2573,
-    "forks_count": 4116
+    "stargazers_count": 72978,
+    "open_issues_count": 2576,
+    "forks_count": 4126
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 10415,
-    "open_issues_count": 187,
-    "forks_count": 252
+    "stargazers_count": 10608,
+    "open_issues_count": 186,
+    "forks_count": 255
   },
   {
     "full_name": "linebender/druid",
-    "stargazers_count": 6480,
-    "open_issues_count": 285,
-    "forks_count": 448
+    "stargazers_count": 6507,
+    "open_issues_count": 286,
+    "forks_count": 450
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 48806,
-    "open_issues_count": 7478,
-    "forks_count": 8713
+    "stargazers_count": 48881,
+    "open_issues_count": 7483,
+    "forks_count": 8728
   },
   {
     "full_name": "godot-rust/godot-rust",
-    "stargazers_count": 2422,
-    "open_issues_count": 62,
+    "stargazers_count": 2428,
+    "open_issues_count": 59,
     "forks_count": 165
   },
   {
     "full_name": "FyroxEngine/Fyrox",
-    "stargazers_count": 3649,
+    "stargazers_count": 3655,
     "open_issues_count": 59,
-    "forks_count": 152
+    "forks_count": 153
   },
   {
     "full_name": "o3de/o3de",
-    "stargazers_count": 4690,
-    "open_issues_count": 2119,
-    "forks_count": 1448
+    "stargazers_count": 4708,
+    "open_issues_count": 2135,
+    "forks_count": 1450
   },
   {
     "full_name": "rust-embedded/rust-raspberrypi-OS-tutorials",
-    "stargazers_count": 8199,
+    "stargazers_count": 8217,
     "open_issues_count": 1,
-    "forks_count": 485
+    "forks_count": 486
   },
   {
     "full_name": "mudita/MuditaOS",
-    "stargazers_count": 385,
-    "open_issues_count": 65,
+    "stargazers_count": 388,
+    "open_issues_count": 74,
     "forks_count": 41
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 8888,
-    "open_issues_count": 196,
-    "forks_count": 516
+    "stargazers_count": 8915,
+    "open_issues_count": 193,
+    "forks_count": 517
   },
   {
     "full_name": "mgdm/htmlq",
-    "stargazers_count": 5890,
+    "stargazers_count": 5892,
     "open_issues_count": 17,
     "forks_count": 80
   },
   {
     "full_name": "compiler-explorer/compiler-explorer",
-    "stargazers_count": 10643,
-    "open_issues_count": 509,
-    "forks_count": 1229
+    "stargazers_count": 10664,
+    "open_issues_count": 504,
+    "forks_count": 1233
   },
   {
     "full_name": "getzola/zola",
-    "stargazers_count": 8598,
-    "open_issues_count": 171,
-    "forks_count": 629
+    "stargazers_count": 8615,
+    "open_issues_count": 172,
+    "forks_count": 630
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 21462,
-    "open_issues_count": 94,
-    "forks_count": 1053
+    "stargazers_count": 21548,
+    "open_issues_count": 92,
+    "forks_count": 1056
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 25673,
+    "stargazers_count": 25745,
     "open_issues_count": 9,
-    "forks_count": 1768
+    "forks_count": 1767
   },
   {
     "full_name": "citybound/citybound",
-    "stargazers_count": 6775,
+    "stargazers_count": 6777,
     "open_issues_count": 139,
     "forks_count": 285
   },
   {
     "full_name": "ruffle-rs/ruffle",
-    "stargazers_count": 9851,
-    "open_issues_count": 1701,
-    "forks_count": 460
+    "stargazers_count": 9862,
+    "open_issues_count": 1719,
+    "forks_count": 463
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 19134,
-    "open_issues_count": 349,
-    "forks_count": 908
+    "stargazers_count": 19164,
+    "open_issues_count": 346,
+    "forks_count": 910
   },
   {
     "full_name": "mozilla/TTS",
-    "stargazers_count": 5902,
+    "stargazers_count": 5913,
     "open_issues_count": 8,
-    "forks_count": 940
+    "forks_count": 941
   },
   {
     "full_name": "nateshmbhat/pyttsx3",
-    "stargazers_count": 973,
+    "stargazers_count": 975,
     "open_issues_count": 109,
     "forks_count": 207
   },
@@ -141,13 +141,13 @@
     "full_name": "google/voice-builder",
     "stargazers_count": 454,
     "open_issues_count": 61,
-    "forks_count": 115
+    "forks_count": 116
   },
   {
     "full_name": "JetBrains/kotlin",
-    "stargazers_count": 41382,
-    "open_issues_count": 140,
-    "forks_count": 5103
+    "stargazers_count": 41398,
+    "open_issues_count": 134,
+    "forks_count": 5105
   },
   {
     "full_name": "peterhs73/xBan",
@@ -157,20 +157,20 @@
   },
   {
     "full_name": "captbaritone/webamp",
-    "stargazers_count": 8576,
+    "stargazers_count": 8578,
     "open_issues_count": 130,
     "forks_count": 589
   },
   {
     "full_name": "torakiki/pdfsam",
-    "stargazers_count": 2028,
-    "open_issues_count": 74,
+    "stargazers_count": 2034,
+    "open_issues_count": 75,
     "forks_count": 267
   },
   {
     "full_name": "prmr/JetUML",
-    "stargazers_count": 478,
-    "open_issues_count": 9,
+    "stargazers_count": 481,
+    "open_issues_count": 8,
     "forks_count": 92
   },
   {
